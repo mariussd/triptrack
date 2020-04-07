@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "975331342983",
+    "firebase_url": "https://nifty-linker-273416.firebaseio.com",
+    "project_id": "nifty-linker-273416",
+    "storage_bucket": "nifty-linker-273416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975331342983:android:46b6a2468a47f217d89622",
+        "android_client_info": {
+          "package_name": "com.mariussd.triptrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975331342983-nqvr5ntvlfri9lldulmqoh3bkhjf40ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKYtXYRyjCBZOiyD3mHjYSVJG_hRBaCkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975331342983-nqvr5ntvlfri9lldulmqoh3bkhjf40ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
